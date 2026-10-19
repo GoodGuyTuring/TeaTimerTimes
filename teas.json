@@ -83,7 +83,7 @@
     {
      "name": "Western 350 ml",
      "amount": "2.75 tsp (~5.5 g)",
-     "note": "2 infusions; the third is optional and thin.",
+     "note": "2 g/tsp (flat leaf). 1L: 2 infusions per charge, each a full 1 L; a third liter is optional and thin. Infusions 2 and 3 at 1 L are Derived. 2 infusions; the third is optional and thin.",
      "infusions": [
       {
        "temp": "80°C",
@@ -109,6 +109,7 @@
     {
      "name": "Western 1 L",
      "amount": "9 tsp (~18 g) · light 7 / strong 11",
+     "note": "2 g/tsp (flat leaf). 1L: 2 infusions per charge, each a full 1 L; a third liter is optional and thin. Infusions 2 and 3 at 1 L are Derived.",
      "infusions": [
       {
        "temp": "80°C",
@@ -131,8 +132,7 @@
       }
      ]
     }
-   ],
-   "note": "2 g/tsp (flat leaf). 1L: 2 infusions per charge, each a full 1 L; a third liter is optional and thin. Infusions 2 and 3 at 1 L are Derived."
+   ]
   },
   {
    "type": "Green",
@@ -141,7 +141,7 @@
     {
      "name": "Western 350 ml",
      "amount": "2.25 tsp (~4.5 g) · light 1.75 / strong 3",
-     "note": "The third infusion is optional and thin.",
+     "note": "2 g/tsp (wiry leaf). 1L: 2 infusions per charge; strong leaf shortens infusion 1 to 1:15. The third infusion is optional and thin.",
      "infusions": [
       {
        "temp": "80°C",
@@ -167,6 +167,7 @@
     {
      "name": "Western 1 L",
      "amount": "9 tsp (~18 g) · light 7 / strong 11",
+     "note": "2 g/tsp (wiry leaf). 1L: 2 infusions per charge; strong leaf shortens infusion 1 to 1:15.",
      "infusions": [
       {
        "temp": "80°C",
@@ -182,8 +183,7 @@
       }
      ]
     }
-   ],
-   "note": "2 g/tsp (wiry leaf). 1L: 2 infusions per charge; strong leaf shortens infusion 1 to 1:15."
+   ]
   },
   {
    "type": "Green",
@@ -278,7 +278,7 @@
     {
      "name": "Western 350 ml",
      "amount": "2 tsp (~5 g)",
-     "note": "2 infusions; 3 to 4 only work with about 9 g of leaf.",
+     "note": "2.5 g/tsp (strip-ish, machine-shaped). 1L: 2 infusions per charge; 1L leaf amount Derived. Keep it at 80°C: the checked sources tie its bitterness to hot water, not to long steeps. 2 infusions; 3 to 4 only work with about 9 g of leaf.",
      "infusions": [
       {
        "temp": "80°C",
@@ -297,6 +297,7 @@
     {
      "name": "Western 1 L",
      "amount": "6 tsp (~15 g)",
+     "note": "2.5 g/tsp (strip-ish, machine-shaped). 1L: 2 infusions per charge; 1L leaf amount Derived. Keep it at 80°C: the checked sources tie its bitterness to hot water, not to long steeps.",
      "infusions": [
       {
        "temp": "80°C",
@@ -312,8 +313,7 @@
       }
      ]
     }
-   ],
-   "note": "2.5 g/tsp (strip-ish, machine-shaped). 1L: 2 infusions per charge; 1L leaf amount Derived. Keep it at 80°C: the checked sources tie its bitterness to hot water, not to long steeps."
+   ]
   },
   {
    "type": "Green",
@@ -396,7 +396,7 @@
     {
      "name": "Western 350 ml",
      "amount": "1.5 tsp (~3.5 g)",
-     "note": "Starts at 70°C, the Jeju grower's figure, and steps up with each infusion.",
+     "note": "2.3 g/tsp (curly needle leaf). 1L: 2 infusions per charge, each a full 1 L at 75°C; 14 g/L sits in the 12 to 15 g/L specialist band. Both 1 L infusions are Derived. Starts at 70°C, the Jeju grower's figure, and steps up with each infusion.",
      "infusions": [
       {
        "temp": "70°C",
@@ -422,6 +422,7 @@
     {
      "name": "Western 1 L",
      "amount": "6 tsp (~14 g) · light 5 / strong 7.5",
+     "note": "2.3 g/tsp (curly needle leaf). 1L: 2 infusions per charge, each a full 1 L at 75°C; 14 g/L sits in the 12 to 15 g/L specialist band. Both 1 L infusions are Derived.",
      "infusions": [
       {
        "temp": "75°C",
@@ -437,8 +438,7 @@
       }
      ]
     }
-   ],
-   "note": "2.3 g/tsp (curly needle leaf). 1L: 2 infusions per charge, each a full 1 L at 75°C; 14 g/L sits in the 12 to 15 g/L specialist band. Both 1 L infusions are Derived."
+   ]
   },
   {
    "type": "Yellow",
@@ -557,7 +557,7 @@
     {
      "name": "Western 350 ml",
      "amount": "2.25 tsp (~3.5 g)",
-     "note": "If the optional third infusion is thin, use 85°C.",
+     "note": "1.5 g/tsp (large open leaf). 1L: 2 infusions per charge. If the optional third infusion is thin, use 85°C.",
      "infusions": [
       {
        "temp": "80°C",
@@ -583,6 +583,7 @@
     {
      "name": "Western 1 L",
      "amount": "7 tsp (~10.5 g) · light 5.5 / strong 8",
+     "note": "1.5 g/tsp (large open leaf). 1L: 2 infusions per charge.",
      "infusions": [
       {
        "temp": "80°C",
@@ -598,8 +599,7 @@
       }
      ]
     }
-   ],
-   "note": "1.5 g/tsp (large open leaf). 1L: 2 infusions per charge."
+   ]
   },
   {
    "type": "White",
@@ -669,7 +669,7 @@
     {
      "name": "Western 350 ml",
      "amount": "whole cake (5 g)",
-     "note": "If you break the cake up, lean toward the min times.",
+     "note": "One cake = one session. 1L batch not recommended: 5 g/L is too thin. If you break the cake up, lean toward the min times.",
      "infusions": [
       {
        "temp": "90°C",
@@ -691,8 +691,7 @@
       }
      ]
     }
-   ],
-   "note": "One cake = one session. 1L batch not recommended: 5 g/L is too thin."
+   ]
   },
   {
    "type": "Oolong",
@@ -856,7 +855,7 @@
     {
      "name": "Western 350 ml",
      "amount": "1.75 tsp (~5 g)",
-     "note": "4 infusions; the mid times follow Seven Cups' 3/3/5/8 min schedule.",
+     "note": "2.8 g/tsp (strip yancha). 1L: 2 long infusions per charge (fewest-steeps plan). 4 infusions; the mid times follow Seven Cups' 3/3/5/8 min schedule.",
      "infusions": [
       {
        "temp": "95°C",
@@ -887,6 +886,7 @@
     {
      "name": "Western 1 L",
      "amount": "6 tsp (~17 g)",
+     "note": "2.8 g/tsp (strip yancha). 1L: 2 long infusions per charge (fewest-steeps plan).",
      "infusions": [
       {
        "temp": "95°C",
@@ -902,8 +902,7 @@
       }
      ]
     }
-   ],
-   "note": "2.8 g/tsp (strip yancha). 1L: 2 long infusions per charge (fewest-steeps plan)."
+   ]
   },
   {
    "type": "Oolong",
@@ -1070,7 +1069,7 @@
     {
      "name": "Western 350 ml",
      "amount": "1.5 tsp (~5 g)",
-     "note": "Optional 5 to 10 s rinse. If it turns sharp, use 90°C for infusions 1 and 2.",
+     "note": "3.5 g/tsp (ball-rolled). 1L: 2 long infusions per charge (fewest-steeps plan; a third is possible but thin). 1L leaf amount Derived; times discussed. Optional 5 to 10 s rinse. If it turns sharp, use 90°C for infusions 1 and 2.",
      "infusions": [
       {
        "temp": "95°C",
@@ -1102,6 +1101,7 @@
     {
      "name": "Western 1 L",
      "amount": "5 tsp (~17.5 g)",
+     "note": "3.5 g/tsp (ball-rolled). 1L: 2 long infusions per charge (fewest-steeps plan; a third is possible but thin). 1L leaf amount Derived; times discussed.",
      "infusions": [
       {
        "temp": "95°C",
@@ -1117,8 +1117,7 @@
       }
      ]
     }
-   ],
-   "note": "3.5 g/tsp (ball-rolled). 1L: 2 long infusions per charge (fewest-steeps plan; a third is possible but thin). 1L leaf amount Derived; times discussed."
+   ]
   },
   {
    "type": "Oolong",
@@ -1237,7 +1236,7 @@
     {
      "name": "Western 350 ml",
      "amount": "2.25 tsp (~6.75 g)",
-     "note": "Most cup sources use 100°C; for a softer, more floral cup, use 90°C.",
+     "note": "3 g/tsp (loosely ball-rolled). 1L: 2 infusions per charge; strong leaf (8 tsp) shortens to 3:00 / 5:00. Most cup sources use 100°C; for a softer, more floral cup, use 90°C.",
      "infusions": [
       {
        "temp": "100°C",
@@ -1263,6 +1262,7 @@
     {
      "name": "Western 1 L",
      "amount": "6 tsp (~18 g) · light 5 / strong 8",
+     "note": "3 g/tsp (loosely ball-rolled). 1L: 2 infusions per charge; strong leaf (8 tsp) shortens to 3:00 / 5:00.",
      "infusions": [
       {
        "temp": "95°C",
@@ -1278,8 +1278,7 @@
       }
      ]
     }
-   ],
-   "note": "3 g/tsp (loosely ball-rolled). 1L: 2 infusions per charge; strong leaf (8 tsp) shortens to 3:00 / 5:00."
+   ]
   },
   {
    "type": "Oolong",
@@ -1434,7 +1433,7 @@
     {
      "name": "Western 350 ml",
      "amount": "2.75 tsp (~6 g)",
-     "note": "3 infusions; skip a fourth.",
+     "note": "2.25 g/tsp (open coarse strip leaf, not rolled). 1L: 2 long infusions per charge (fewest-steeps plan). 1L leaf amount Derived; times discussed. 3 infusions; skip a fourth.",
      "infusions": [
       {
        "temp": "95°C",
@@ -1459,6 +1458,7 @@
     {
      "name": "Western 1 L",
      "amount": "7.5 tsp (~17 g)",
+     "note": "2.25 g/tsp (open coarse strip leaf, not rolled). 1L: 2 long infusions per charge (fewest-steeps plan). 1L leaf amount Derived; times discussed.",
      "infusions": [
       {
        "temp": "95°C",
@@ -1474,8 +1474,7 @@
       }
      ]
     }
-   ],
-   "note": "2.25 g/tsp (open coarse strip leaf, not rolled). 1L: 2 long infusions per charge (fewest-steeps plan). 1L leaf amount Derived; times discussed."
+   ]
   },
   {
    "type": "Oolong",
@@ -1584,7 +1583,7 @@
     {
      "name": "Western 350 ml",
      "amount": "2.75 tsp (~4.4 g)",
-     "note": "If the cup is thin, raise to 90°C before going past 4:00.",
+     "note": "1.6 g/tsp (fluffy tippy leaf). 1L: 1 infusion per charge; a second liter is noticeably thin. The light (6 tsp) and strong (10 tsp) amounts were set at 2:30 and 3:30. If the cup is thin, raise to 90°C before going past 4:00.",
      "infusions": [
       {
        "temp": "85°C",
@@ -1603,6 +1602,7 @@
     {
      "name": "Western 1 L",
      "amount": "8 tsp (~13 g) · light 6 / strong 10",
+     "note": "1.6 g/tsp (fluffy tippy leaf). 1L: 1 infusion per charge; a second liter is noticeably thin. The light (6 tsp) and strong (10 tsp) amounts were set at 2:30 and 3:30.",
      "infusions": [
       {
        "temp": "85°C",
@@ -1612,8 +1612,7 @@
       }
      ]
     }
-   ],
-   "note": "1.6 g/tsp (fluffy tippy leaf). 1L: 1 infusion per charge; a second liter is noticeably thin. The light (6 tsp) and strong (10 tsp) amounts were set at 2:30 and 3:30."
+   ]
   },
   {
    "type": "Red/black",
@@ -1756,7 +1755,7 @@
     {
      "name": "Western 350 ml",
      "amount": "1.5 tsp (~3.75 g)",
-     "note": "For Seven Cups' 4-infusion schedule (4/4/5/8 min), use 5 g.",
+     "note": "2.5 g/tsp (twisted). 1L: 2 infusions per charge. Sources for this cultivar brew at about 100°C; drop to 95°C if infusion 1 tastes brisk. For Seven Cups' 4-infusion schedule (4/4/5/8 min), use 5 g.",
      "infusions": [
       {
        "temp": "100°C",
@@ -1781,6 +1780,7 @@
     {
      "name": "Western 1 L",
      "amount": "4 tsp (~10 g) · light 3 / strong 5",
+     "note": "2.5 g/tsp (twisted). 1L: 2 infusions per charge. Sources for this cultivar brew at about 100°C; drop to 95°C if infusion 1 tastes brisk.",
      "infusions": [
       {
        "temp": "100°C",
@@ -1796,8 +1796,7 @@
       }
      ]
     }
-   ],
-   "note": "2.5 g/tsp (twisted). 1L: 2 infusions per charge. Sources for this cultivar brew at about 100°C; drop to 95°C if infusion 1 tastes brisk."
+   ]
   },
   {
    "type": "Red/black",
@@ -1882,6 +1881,7 @@
     {
      "name": "Western 350 ml",
      "amount": "1.75 tsp (~3.5 g)",
+     "note": "2 g/tsp (flat). 1 infusion per charge; the second is optional and thin. If 95°C tastes astringent, use 90°C with 3:00/4:00/5:00 rather than cutting below 1:30.",
      "infusions": [
       {
        "temp": "95°C",
@@ -1901,6 +1901,7 @@
     {
      "name": "Western 1 L",
      "amount": "5 tsp (~10 g) · light 4 / strong 6",
+     "note": "2 g/tsp (flat). 1 infusion per charge; the second is optional and thin. If 95°C tastes astringent, use 90°C with 3:00/4:00/5:00 rather than cutting below 1:30.",
      "infusions": [
       {
        "temp": "95°C",
@@ -1917,8 +1918,7 @@
       }
      ]
     }
-   ],
-   "note": "2 g/tsp (flat). 1 infusion per charge; the second is optional and thin. If 95°C tastes astringent, use 90°C with 3:00/4:00/5:00 rather than cutting below 1:30."
+   ]
   },
   {
    "type": "Red/black",
@@ -2037,6 +2037,7 @@
     {
      "name": "Western 350 ml",
      "amount": "2.25 tsp (~3.5 g)",
+     "note": "1.5 g/tsp (large open twist). 1L: 2 infusions per charge. Most sources brew infusion 1 below boiling to limit astringency.",
      "infusions": [
       {
        "temp": "90°C",
@@ -2061,6 +2062,7 @@
     {
      "name": "Western 1 L",
      "amount": "7 tsp (~10.5 g) · light 5.5 / strong 8",
+     "note": "1.5 g/tsp (large open twist). 1L: 2 infusions per charge. Most sources brew infusion 1 below boiling to limit astringency.",
      "infusions": [
       {
        "temp": "90°C",
@@ -2076,8 +2078,7 @@
       }
      ]
     }
-   ],
-   "note": "1.5 g/tsp (large open twist). 1L: 2 infusions per charge. Most sources brew infusion 1 below boiling to limit astringency."
+   ]
   },
   {
    "type": "Red/black",
@@ -2086,6 +2087,7 @@
     {
      "name": "Western 350 ml",
      "amount": "1.5 tsp (~3.75 g)",
+     "note": "2.5 g/tsp (berries may weigh more). 1 infusion per charge; the flavoring washes out. For a stronger cup, add leaf (1.75 tsp, ~4.4 g per 350 ml) rather than steeping past 4:00.",
      "infusions": [
       {
        "temp": "100°C",
@@ -2098,6 +2100,7 @@
     {
      "name": "Western 1 L",
      "amount": "4 tsp (~10 g) · light 3 / strong 5",
+     "note": "2.5 g/tsp (berries may weigh more). 1 infusion per charge; the flavoring washes out. For a stronger cup, add leaf (1.75 tsp, ~4.4 g per 350 ml) rather than steeping past 4:00.",
      "infusions": [
       {
        "temp": "100°C",
@@ -2107,8 +2110,7 @@
       }
      ]
     }
-   ],
-   "note": "2.5 g/tsp (berries may weigh more). 1 infusion per charge; the flavoring washes out. For a stronger cup, add leaf (1.75 tsp, ~4.4 g per 350 ml) rather than steeping past 4:00."
+   ]
   },
   {
    "type": "Dark (shou pu-erh)",
@@ -2275,6 +2277,7 @@
     {
      "name": "Western 350 ml",
      "amount": "1.75 tsp (~5 g)",
+     "note": "3 g/tsp (dense; weigh it, the chunks vary). Quick rinse first: pour on, discard after about 10 s. 3 infusions per charge, a fourth is optional.",
      "infusions": [
       {
        "temp": "100°C",
@@ -2306,6 +2309,7 @@
     {
      "name": "Western 1 L",
      "amount": "4.75 tsp (~14 g) · light 3.5 / strong 5.75",
+     "note": "3 g/tsp (dense; weigh it, the chunks vary). Quick rinse first: pour on, discard after about 10 s. 3 infusions per charge, a fourth is optional.",
      "infusions": [
       {
        "temp": "100°C",
@@ -2334,8 +2338,7 @@
       }
      ]
     }
-   ],
-   "note": "3 g/tsp (dense; weigh it, the chunks vary). Quick rinse first: pour on, discard after about 10 s. 3 infusions per charge, a fourth is optional."
+   ]
   },
   {
    "type": "Test",

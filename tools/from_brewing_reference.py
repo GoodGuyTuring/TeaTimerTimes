@@ -137,8 +137,8 @@ def build(markdown: str) -> list[dict]:
         tea = {"type": entry["type"], "name": entry["name"], "methods": []}
         if entry["western"]:
             note, methods = parse_block(blocks[("Western", entry["western"])])
-            if note:
-                tea["note"] = note
+            for method in methods:
+                method["note"] = f"{note} {method['note']}".strip()
             tea["methods"] += methods
         if entry["gongfu"]:
             block = blocks[("Gongfu", entry["gongfu"])]
