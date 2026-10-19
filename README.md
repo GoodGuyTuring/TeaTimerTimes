@@ -34,7 +34,6 @@ What the script takes over:
     {
       "type": "Oolong",
       "name": "Da Hong Pao",
-      "note": "2.8 g/tsp (strip yancha). …",
       "methods": [
         {
           "name": "Gongfu 90 ml",
