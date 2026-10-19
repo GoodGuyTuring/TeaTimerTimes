@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "Oct 17, 2026",
+ "updated": "Oct 19, 2026",
  "teas": [
   {
    "type": "Green",
@@ -15,31 +15,31 @@
        "temp": "80°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
-       "light": "0:30",
+       "light": "0:35",
        "medium": "0:45",
-       "strong": "0:50"
+       "strong": "0:55"
       },
       {
        "temp": "80°C",
-       "light": "1:00",
+       "light": "1:10",
        "medium": "1:30",
-       "strong": "2:00"
+       "strong": "1:50"
       }
      ]
     },
@@ -52,31 +52,31 @@
        "temp": "80°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
-       "light": "0:30",
+       "light": "0:35",
        "medium": "0:45",
-       "strong": "0:50"
+       "strong": "0:55"
       },
       {
        "temp": "80°C",
-       "light": "1:00",
+       "light": "1:10",
        "medium": "1:30",
-       "strong": "2:00"
+       "strong": "1:50"
       }
      ]
     },
@@ -198,7 +198,7 @@
        "temp": "85°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "85°C",
@@ -208,9 +208,9 @@
       },
       {
        "temp": "85°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "85°C",
@@ -226,9 +226,9 @@
       },
       {
        "temp": "85°C",
-       "light": "1:00",
+       "light": "1:05",
        "medium": "1:20",
-       "strong": "1:45"
+       "strong": "1:35"
       }
      ]
     },
@@ -241,7 +241,7 @@
        "temp": "85°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "85°C",
@@ -251,9 +251,9 @@
       },
       {
        "temp": "85°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "85°C",
@@ -269,9 +269,9 @@
       },
       {
        "temp": "85°C",
-       "light": "1:00",
+       "light": "1:05",
        "medium": "1:20",
-       "strong": "1:45"
+       "strong": "1:35"
       }
      ]
     },
@@ -328,7 +328,7 @@
        "temp": "75°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "75°C",
@@ -338,9 +338,9 @@
       },
       {
        "temp": "75°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
@@ -365,7 +365,7 @@
        "temp": "75°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "75°C",
@@ -375,9 +375,9 @@
       },
       {
        "temp": "75°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
@@ -463,9 +463,9 @@
       },
       {
        "temp": "80°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:45"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
@@ -481,13 +481,13 @@
       },
       {
        "temp": "80°C",
-       "light": "1:00",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20"
+       "strong": "1:25"
       },
       {
        "temp": "80°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -518,9 +518,9 @@
       },
       {
        "temp": "80°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:45"
+       "strong": "0:35"
       },
       {
        "temp": "80°C",
@@ -536,13 +536,13 @@
       },
       {
        "temp": "80°C",
-       "light": "1:00",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20"
+       "strong": "1:25"
       },
       {
        "temp": "80°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -612,9 +612,9 @@
      "infusions": [
       {
        "temp": "90°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:00",
-       "strong": "1:15"
+       "strong": "1:10"
       },
       {
        "temp": "90°C",
@@ -624,7 +624,7 @@
       },
       {
        "temp": "90°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
        "strong": "0:35"
       },
@@ -636,21 +636,21 @@
       },
       {
        "temp": "90°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:00",
-       "strong": "1:15"
+       "strong": "1:10"
       },
       {
        "temp": "95°C",
-       "light": "1:00",
+       "light": "1:05",
        "medium": "1:20",
-       "strong": "1:45"
+       "strong": "1:35"
       },
       {
        "temp": "95°C",
-       "light": "1:15",
+       "light": "1:25",
        "medium": "1:45",
-       "strong": "2:00"
+       "strong": "2:05"
       },
       {
        "temp": "95°C",
@@ -660,9 +660,9 @@
       },
       {
        "temp": "95°C",
-       "light": "2:00",
+       "light": "2:25",
        "medium": "3:00",
-       "strong": "3:30"
+       "strong": "3:35"
       }
      ]
     },
@@ -704,57 +704,57 @@
      "infusions": [
       {
        "temp": "100°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "100°C",
-       "light": "0:05",
+       "light": "0:08",
        "medium": "0:10",
-       "strong": "0:15"
+       "strong": "0:12"
       },
       {
        "temp": "100°C",
        "light": "0:10",
        "medium": "0:12",
-       "strong": "0:20"
+       "strong": "0:14"
       },
       {
        "temp": "100°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "100°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "100°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:45"
+       "strong": "0:35"
       },
       {
        "temp": "100°C",
-       "light": "0:30",
+       "light": "0:35",
        "medium": "0:45",
-       "strong": "1:00"
+       "strong": "0:55"
       },
       {
        "temp": "100°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:00",
-       "strong": "1:15"
+       "strong": "1:10"
       },
       {
        "temp": "100°C",
-       "light": "1:00",
+       "light": "1:10",
        "medium": "1:30",
-       "strong": "1:45"
+       "strong": "1:50"
       },
       {
        "temp": "100°C",
@@ -764,9 +764,9 @@
       },
       {
        "temp": "100°C",
-       "light": "3:00",
+       "light": "3:10",
        "medium": "4:00",
-       "strong": "4:30",
+       "strong": "4:50",
        "optional": true
       }
      ]
@@ -778,27 +778,27 @@
      "infusions": [
       {
        "temp": "100°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "100°C",
-       "light": "0:05",
+       "light": "0:08",
        "medium": "0:10",
-       "strong": "0:15"
+       "strong": "0:12"
       },
       {
        "temp": "100°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "100°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "100°C",
@@ -808,7 +808,7 @@
       },
       {
        "temp": "100°C",
-       "light": "0:20",
+       "light": "0:30",
        "medium": "0:35",
        "strong": "0:40"
       },
@@ -820,13 +820,13 @@
       },
       {
        "temp": "100°C",
-       "light": "1:00",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20"
+       "strong": "1:25"
       },
       {
        "temp": "100°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -838,16 +838,16 @@
       },
       {
        "temp": "100°C",
-       "light": "3:00",
+       "light": "2:50",
        "medium": "3:30",
-       "strong": "4:30",
+       "strong": "4:10",
        "optional": true
       },
       {
        "temp": "100°C",
-       "light": "3:30",
+       "light": "4:00",
        "medium": "5:00",
-       "strong": "5:30",
+       "strong": "6:00",
        "optional": true
       }
      ]
@@ -921,15 +921,15 @@
       },
       {
        "temp": "95°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "95°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "95°C",
@@ -941,31 +941,31 @@
        "temp": "95°C",
        "light": "0:30",
        "medium": "0:35",
-       "strong": "0:45"
+       "strong": "0:40"
       },
       {
        "temp": "95°C",
-       "light": "0:30",
+       "light": "0:35",
        "medium": "0:45",
-       "strong": "1:00"
+       "strong": "0:55"
       },
       {
        "temp": "95°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:00",
-       "strong": "1:15"
+       "strong": "1:10"
       },
       {
        "temp": "95°C",
-       "light": "1:00",
+       "light": "1:05",
        "medium": "1:20",
-       "strong": "1:45"
+       "strong": "1:35"
       },
       {
        "temp": "95°C",
-       "light": "1:15",
+       "light": "1:30",
        "medium": "1:50",
-       "strong": "2:00"
+       "strong": "2:10"
       },
       {
        "temp": "95°C",
@@ -975,15 +975,15 @@
       },
       {
        "temp": "95°C",
-       "light": "3:00",
+       "light": "2:50",
        "medium": "3:30",
-       "strong": "4:30"
+       "strong": "4:10"
       },
       {
        "temp": "95°C",
-       "light": "3:30",
+       "light": "4:00",
        "medium": "5:00",
-       "strong": "5:30"
+       "strong": "6:00"
       }
      ]
     },
@@ -1000,15 +1000,15 @@
       },
       {
        "temp": "95°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "95°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "95°C",
@@ -1020,31 +1020,31 @@
        "temp": "95°C",
        "light": "0:30",
        "medium": "0:35",
-       "strong": "0:45"
+       "strong": "0:40"
       },
       {
        "temp": "95°C",
-       "light": "0:30",
+       "light": "0:35",
        "medium": "0:45",
-       "strong": "1:00"
+       "strong": "0:55"
       },
       {
        "temp": "95°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:00",
-       "strong": "1:15"
+       "strong": "1:10"
       },
       {
        "temp": "95°C",
-       "light": "1:00",
+       "light": "1:05",
        "medium": "1:20",
-       "strong": "1:45"
+       "strong": "1:35"
       },
       {
        "temp": "95°C",
-       "light": "1:15",
+       "light": "1:30",
        "medium": "1:50",
-       "strong": "2:00"
+       "strong": "2:10"
       },
       {
        "temp": "95°C",
@@ -1054,15 +1054,15 @@
       },
       {
        "temp": "95°C",
-       "light": "3:00",
+       "light": "2:50",
        "medium": "3:30",
-       "strong": "4:30"
+       "strong": "4:10"
       },
       {
        "temp": "95°C",
-       "light": "3:30",
+       "light": "4:00",
        "medium": "5:00",
-       "strong": "5:30"
+       "strong": "6:00"
       }
      ]
     },
@@ -1142,9 +1142,9 @@
       },
       {
        "temp": "95°C",
-       "light": "0:30",
+       "light": "0:35",
        "medium": "0:45",
-       "strong": "1:00"
+       "strong": "0:55"
       },
       {
        "temp": "95°C",
@@ -1154,19 +1154,19 @@
       },
       {
        "temp": "95°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:05",
        "strong": "1:20"
       },
       {
        "temp": "95°C",
-       "light": "0:45",
+       "light": "1:00",
        "medium": "1:15",
-       "strong": "1:20"
+       "strong": "1:30"
       },
       {
        "temp": "95°C",
-       "light": "1:00",
+       "light": "1:10",
        "medium": "1:25",
        "strong": "1:40"
       },
@@ -1174,7 +1174,7 @@
        "temp": "95°C",
        "light": "1:15",
        "medium": "1:35",
-       "strong": "2:00"
+       "strong": "1:55"
       }
      ]
     },
@@ -1197,9 +1197,9 @@
       },
       {
        "temp": "95°C",
-       "light": "0:30",
+       "light": "0:35",
        "medium": "0:45",
-       "strong": "1:00"
+       "strong": "0:55"
       },
       {
        "temp": "95°C",
@@ -1209,19 +1209,19 @@
       },
       {
        "temp": "95°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:05",
        "strong": "1:20"
       },
       {
        "temp": "95°C",
-       "light": "0:45",
+       "light": "1:00",
        "medium": "1:15",
-       "strong": "1:20"
+       "strong": "1:30"
       },
       {
        "temp": "95°C",
-       "light": "1:00",
+       "light": "1:10",
        "medium": "1:25",
        "strong": "1:40"
       },
@@ -1229,7 +1229,7 @@
        "temp": "95°C",
        "light": "1:15",
        "medium": "1:35",
-       "strong": "2:00"
+       "strong": "1:55"
       }
      ]
     },
@@ -1293,7 +1293,7 @@
        "temp": "100°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "100°C",
@@ -1303,9 +1303,9 @@
       },
       {
        "temp": "100°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "100°C",
@@ -1321,39 +1321,39 @@
       },
       {
        "temp": "100°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:05",
-       "strong": "1:10"
+       "strong": "1:20"
       },
       {
        "temp": "100°C",
-       "light": "1:00",
+       "light": "1:10",
        "medium": "1:25",
-       "strong": "1:35"
+       "strong": "1:40"
       },
       {
        "temp": "100°C",
-       "light": "1:15",
+       "light": "1:30",
        "medium": "1:50",
-       "strong": "2:30"
+       "strong": "2:10"
       },
       {
        "temp": "100°C",
-       "light": "2:00",
+       "light": "1:55",
        "medium": "2:25",
-       "strong": "3:00"
+       "strong": "2:55"
       },
       {
        "temp": "100°C",
        "light": "2:30",
        "medium": "3:10",
-       "strong": "3:30"
+       "strong": "3:50"
       },
       {
        "temp": "100°C",
-       "light": "3:00",
+       "light": "3:20",
        "medium": "4:10",
-       "strong": "4:30"
+       "strong": "5:00"
       }
      ]
     },
@@ -1366,7 +1366,7 @@
        "temp": "100°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "100°C",
@@ -1376,9 +1376,9 @@
       },
       {
        "temp": "100°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "100°C",
@@ -1394,39 +1394,39 @@
       },
       {
        "temp": "100°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:05",
-       "strong": "1:10"
+       "strong": "1:20"
       },
       {
        "temp": "100°C",
-       "light": "1:00",
+       "light": "1:10",
        "medium": "1:25",
-       "strong": "1:35"
+       "strong": "1:40"
       },
       {
        "temp": "100°C",
-       "light": "1:15",
+       "light": "1:30",
        "medium": "1:50",
-       "strong": "2:30"
+       "strong": "2:10"
       },
       {
        "temp": "100°C",
-       "light": "2:00",
+       "light": "1:55",
        "medium": "2:25",
-       "strong": "3:00"
+       "strong": "2:55"
       },
       {
        "temp": "100°C",
        "light": "2:30",
        "medium": "3:10",
-       "strong": "3:30"
+       "strong": "3:50"
       },
       {
        "temp": "100°C",
-       "light": "3:00",
+       "light": "3:20",
        "medium": "4:10",
-       "strong": "4:30"
+       "strong": "5:00"
       }
      ]
     },
@@ -1487,37 +1487,37 @@
      "infusions": [
       {
        "temp": "85°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:00",
-       "strong": "1:15"
+       "strong": "1:10"
       },
       {
        "temp": "85°C",
        "light": "0:30",
        "medium": "0:40",
-       "strong": "0:45"
+       "strong": "0:50"
       },
       {
        "temp": "85°C",
-       "light": "0:45",
+       "light": "0:40",
        "medium": "0:50",
        "strong": "1:00"
       },
       {
        "temp": "85°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:00",
-       "strong": "1:15"
+       "strong": "1:10"
       },
       {
        "temp": "85°C",
-       "light": "1:00",
+       "light": "1:05",
        "medium": "1:20",
-       "strong": "1:45"
+       "strong": "1:35"
       },
       {
        "temp": "85°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -1537,37 +1537,37 @@
      "infusions": [
       {
        "temp": "85°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:00",
-       "strong": "1:15"
+       "strong": "1:10"
       },
       {
        "temp": "85°C",
        "light": "0:30",
        "medium": "0:40",
-       "strong": "0:45"
+       "strong": "0:50"
       },
       {
        "temp": "85°C",
-       "light": "0:45",
+       "light": "0:40",
        "medium": "0:50",
        "strong": "1:00"
       },
       {
        "temp": "85°C",
-       "light": "0:45",
+       "light": "0:50",
        "medium": "1:00",
-       "strong": "1:15"
+       "strong": "1:10"
       },
       {
        "temp": "85°C",
-       "light": "1:00",
+       "light": "1:05",
        "medium": "1:20",
-       "strong": "1:45"
+       "strong": "1:35"
       },
       {
        "temp": "85°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -1625,21 +1625,21 @@
      "infusions": [
       {
        "temp": "100°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "100°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "100°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "100°C",
@@ -1649,9 +1649,9 @@
       },
       {
        "temp": "100°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "100°C",
@@ -1667,13 +1667,13 @@
       },
       {
        "temp": "100°C",
-       "light": "1:00",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20"
+       "strong": "1:25"
       },
       {
        "temp": "100°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -1692,21 +1692,21 @@
      "infusions": [
       {
        "temp": "100°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "100°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "100°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "100°C",
@@ -1716,9 +1716,9 @@
       },
       {
        "temp": "100°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "100°C",
@@ -1734,13 +1734,13 @@
       },
       {
        "temp": "100°C",
-       "light": "1:00",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20"
+       "strong": "1:25"
       },
       {
        "temp": "100°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -1811,7 +1811,7 @@
        "temp": "95°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "95°C",
@@ -1833,9 +1833,9 @@
       },
       {
        "temp": "95°C",
-       "light": "0:50",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20",
+       "strong": "1:25",
        "optional": true
       }
      ]
@@ -1849,7 +1849,7 @@
        "temp": "95°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "95°C",
@@ -1871,9 +1871,9 @@
       },
       {
        "temp": "95°C",
-       "light": "0:50",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20",
+       "strong": "1:25",
        "optional": true
       }
      ]
@@ -1933,7 +1933,7 @@
        "temp": "95°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "95°C",
@@ -1943,9 +1943,9 @@
       },
       {
        "temp": "95°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "95°C",
@@ -1961,13 +1961,13 @@
       },
       {
        "temp": "95°C",
-       "light": "1:00",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20"
+       "strong": "1:25"
       },
       {
        "temp": "95°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -1988,7 +1988,7 @@
        "temp": "95°C",
        "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "95°C",
@@ -1998,9 +1998,9 @@
       },
       {
        "temp": "95°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "95°C",
@@ -2016,13 +2016,13 @@
       },
       {
        "temp": "95°C",
-       "light": "1:00",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20"
+       "strong": "1:25"
       },
       {
        "temp": "95°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -2119,25 +2119,25 @@
     {
      "name": "Gongfu 90 ml",
      "amount": "1.75 tsp (~5 g) · light 1.25 / strong 2",
-     "note": "Quick rinse first (pour on, discard at once, no timer). 12 infusions. Infusion 12 now reaches its 7:00 ideal (+6 on C).",
+     "note": "Quick rinse first (pour on, discard at once, no timer). 12 infusions.",
      "infusions": [
       {
        "temp": "100°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "100°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "100°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "100°C",
@@ -2147,9 +2147,9 @@
       },
       {
        "temp": "100°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "100°C",
@@ -2165,13 +2165,13 @@
       },
       {
        "temp": "100°C",
-       "light": "1:00",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20"
+       "strong": "1:25"
       },
       {
        "temp": "100°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -2179,44 +2179,44 @@
        "temp": "100°C",
        "light": "2:00",
        "medium": "2:30",
-       "strong": "3:30"
+       "strong": "3:00"
       },
       {
        "temp": "100°C",
-       "light": "3:00",
+       "light": "3:10",
        "medium": "4:00",
-       "strong": "5:00"
+       "strong": "4:50"
       },
       {
        "temp": "100°C",
-       "light": "5:30",
+       "light": "5:35",
        "medium": "7:00",
-       "strong": "8:00"
+       "strong": "8:25"
       }
      ]
     },
     {
      "name": "Gongfu 60 ml",
      "amount": "1.25 tsp (~3.75 g)",
-     "note": "Quick rinse first (pour on, discard at once, no timer). 12 infusions. Infusion 12 now reaches its 7:00 ideal (+6 on C).",
+     "note": "Quick rinse first (pour on, discard at once, no timer). 12 infusions.",
      "infusions": [
       {
        "temp": "100°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "100°C",
-       "light": "0:10",
+       "light": "0:12",
        "medium": "0:15",
-       "strong": "0:20"
+       "strong": "0:18"
       },
       {
        "temp": "100°C",
-       "light": "0:15",
+       "light": "0:16",
        "medium": "0:20",
-       "strong": "0:25"
+       "strong": "0:24"
       },
       {
        "temp": "100°C",
@@ -2226,9 +2226,9 @@
       },
       {
        "temp": "100°C",
-       "light": "0:20",
+       "light": "0:25",
        "medium": "0:30",
-       "strong": "0:40"
+       "strong": "0:35"
       },
       {
        "temp": "100°C",
@@ -2244,13 +2244,13 @@
       },
       {
        "temp": "100°C",
-       "light": "1:00",
+       "light": "0:55",
        "medium": "1:10",
-       "strong": "1:20"
+       "strong": "1:25"
       },
       {
        "temp": "100°C",
-       "light": "1:15",
+       "light": "1:20",
        "medium": "1:40",
        "strong": "2:00"
       },
@@ -2258,19 +2258,19 @@
        "temp": "100°C",
        "light": "2:00",
        "medium": "2:30",
-       "strong": "3:30"
+       "strong": "3:00"
       },
       {
        "temp": "100°C",
-       "light": "3:00",
+       "light": "3:10",
        "medium": "4:00",
-       "strong": "5:00"
+       "strong": "4:50"
       },
       {
        "temp": "100°C",
-       "light": "5:30",
+       "light": "5:35",
        "medium": "7:00",
-       "strong": "8:00"
+       "strong": "8:25"
       }
      ]
     },

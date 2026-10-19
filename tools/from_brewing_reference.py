@@ -6,8 +6,9 @@ They become:
 
     type > tea > method ("Gongfu 90 ml", ...) > strength (Light / Medium / Strong)
 
-Medium uses the "Ideal (mid)" time where the reference gives one: the mid times were
-rounded to fit a slot timer, which Tea Timer doesn't need.
+Since 19 Oct 2026 the reference's times are exact. Older references rounded the gongfu mid
+times to fit a slot timer and kept the exact time in an "Ideal (mid)" column; if that column
+is present, Medium uses it.
 
 Usage:
     python tools/from_brewing_reference.py "path/to/Tea Brewing Reference.md" [-o teas.json]

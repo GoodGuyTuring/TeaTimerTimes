@@ -18,9 +18,9 @@ After changing the reference, run the script again, commit and push `teas.json`;
 What the script takes over:
 
 - One **method** per table: Gongfu 90 ml, Gongfu 60 ml, Western 350 ml, Western 1 L.
-- **Light / Medium / Strong** are the reference's min / mid / max times. Medium uses the
-  "Ideal (mid)" time where the reference gives one: the mid times there are rounded to fit
-  a slot timer, which Tea Timer doesn't need.
+- **Light / Medium / Strong** are the reference's min / mid / max times. Since 19 Oct 2026
+  they are exact times. Older references rounded the gongfu mid times to fit a slot timer and
+  kept the exact one in an "Ideal (mid)" column; if that column is present, Medium uses it.
 - Temperature and "optional" per infusion, the leaf amount per method, and the notes.
 - A **Test** tea with 5-second steps is added at the end, for checking the alarm.
 
@@ -29,7 +29,7 @@ What the script takes over:
 ```json
 {
   "version": 2,
-  "updated": "Oct 17, 2026",
+  "updated": "Oct 19, 2026",
   "teas": [
     {
       "type": "Oolong",
@@ -40,8 +40,8 @@ What the script takes over:
           "amount": "2.25 tsp (~6.5 g)",
           "note": "No rinse. …",
           "infusions": [
-            { "temp": "100°C", "light": "0:10", "medium": "0:15", "strong": "0:20" },
-            { "temp": "100°C", "light": "3:00", "medium": "4:00", "strong": "4:30", "optional": true }
+            { "temp": "100°C", "light": "0:12", "medium": "0:15", "strong": "0:18" },
+            { "temp": "100°C", "light": "3:10", "medium": "4:00", "strong": "4:50", "optional": true }
           ]
         }
       ]
