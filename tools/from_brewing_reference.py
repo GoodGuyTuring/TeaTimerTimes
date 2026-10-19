@@ -187,7 +187,7 @@ def main() -> None:
     teas.append(TEST_TEA)
     stand = re.search(r"^(\w{3} \d{1,2}, \d{4})", markdown, re.MULTILINE)
     data = {"version": 2, "updated": stand[1] if stand else None, "teas": teas}
-    args.out.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    args.out.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
 
     methods = sum(len(t["methods"]) for t in teas)
     print(f"{len(teas)} teas, {methods} methods -> {args.out}")
