@@ -106,12 +106,17 @@ def parse_block(block: dict) -> tuple[str, list[dict]]:
     for line in block["lines"]:
         stripped = line.strip()
         if match := AMOUNT_RE.match(stripped):
+            # "amount" is the bold leaf amount, which all three strengths (min/mid/max times) use.
+            # The light / strong amounts are another lever, used with the mid time: they go
+            # into the note, so the app can show "amount" as the leaf for every strength.
             amount = (match["amount"] or "").strip()
-            rest = match["rest"].strip()
+            rest = match["rest"].strip().lstrip(". ").strip()
             if variants := LEAF_VARIANTS_RE.match(rest):
-                amount = f"{amount} · {variants['variants']}"
-                rest = variants["rest"]
-            method = {"name": METHOD_NAMES[match["vessel"]], "amount": amount, "note": rest.lstrip(". ").strip(), "infusions": []}
+                text = variants["variants"].strip()
+                if text.startswith("light"):
+                    text = f"Leaf for a lighter or stronger cup with the Medium times: {text} tsp"
+                rest = f"{text}. {variants['rest'].lstrip('. ')}".strip()
+            method = {"name": METHOD_NAMES[match["vessel"]], "amount": amount, "note": rest, "infusions": []}
             methods.append(method)
             header = None
         elif stripped.startswith("|"):

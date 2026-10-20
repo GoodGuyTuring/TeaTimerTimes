@@ -108,8 +108,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "9 tsp (~18 g) · light 7 / strong 11",
-     "note": "2 g/tsp (flat leaf). 1L: 2 infusions per charge, each a full 1 L; a third liter is optional and thin. Infusions 2 and 3 at 1 L are Derived.",
+     "amount": "9 tsp (~18 g)",
+     "note": "2 g/tsp (flat leaf). 1L: 2 infusions per charge, each a full 1 L; a third liter is optional and thin. Infusions 2 and 3 at 1 L are Derived. Leaf for a lighter or stronger cup with the Medium times: light 7 / strong 11 tsp.",
      "infusions": [
       {
        "temp": "80°C",
@@ -140,8 +140,8 @@
    "methods": [
     {
      "name": "Western 350 ml",
-     "amount": "2.25 tsp (~4.5 g) · light 1.75 / strong 3",
-     "note": "2 g/tsp (wiry leaf). 1L: 2 infusions per charge; strong leaf shortens infusion 1 to 1:15. The third infusion is optional and thin.",
+     "amount": "2.25 tsp (~4.5 g)",
+     "note": "2 g/tsp (wiry leaf). 1L: 2 infusions per charge; strong leaf shortens infusion 1 to 1:15. Leaf for a lighter or stronger cup with the Medium times: light 1.75 / strong 3 tsp. The third infusion is optional and thin.",
      "infusions": [
       {
        "temp": "80°C",
@@ -166,8 +166,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "9 tsp (~18 g) · light 7 / strong 11",
-     "note": "2 g/tsp (wiry leaf). 1L: 2 infusions per charge; strong leaf shortens infusion 1 to 1:15.",
+     "amount": "9 tsp (~18 g)",
+     "note": "2 g/tsp (wiry leaf). 1L: 2 infusions per charge; strong leaf shortens infusion 1 to 1:15. Leaf for a lighter or stronger cup with the Medium times: light 7 / strong 11 tsp.",
      "infusions": [
       {
        "temp": "80°C",
@@ -234,8 +234,8 @@
     },
     {
      "name": "Gongfu 60 ml",
-     "amount": "1.25 tsp (~3.1 g) · Derived amount",
-     "note": "Borderline gongfu fit: western is the better default. 1:18 ratio, no rinse. Pour down the gaiwan wall, not onto the buds. 6 infusions; the 6th is thin.",
+     "amount": "1.25 tsp (~3.1 g)",
+     "note": "Borderline gongfu fit: western is the better default. 1:18 ratio, no rinse. Pour down the gaiwan wall, not onto the buds. 6 infusions; the 6th is thin. Derived amount.",
      "infusions": [
       {
        "temp": "85°C",
@@ -421,8 +421,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "6 tsp (~14 g) · light 5 / strong 7.5",
-     "note": "2.3 g/tsp (curly needle leaf). 1L: 2 infusions per charge, each a full 1 L at 75°C; 14 g/L sits in the 12 to 15 g/L specialist band. Both 1 L infusions are Derived.",
+     "amount": "6 tsp (~14 g)",
+     "note": "2.3 g/tsp (curly needle leaf). 1L: 2 infusions per charge, each a full 1 L at 75°C; 14 g/L sits in the 12 to 15 g/L specialist band. Both 1 L infusions are Derived. Leaf for a lighter or stronger cup with the Medium times: light 5 / strong 7.5 tsp.",
      "infusions": [
       {
        "temp": "75°C",
@@ -446,8 +446,8 @@
    "methods": [
     {
      "name": "Gongfu 90 ml",
-     "amount": "2.25 tsp (~3.5 g) · light 2 / strong 2.75",
-     "note": "No rinse. 8 infusions.",
+     "amount": "2.25 tsp (~3.5 g)",
+     "note": "No rinse. 8 infusions. Leaf for a lighter or stronger cup with the Medium times: light 2 / strong 2.75 tsp.",
      "infusions": [
       {
        "temp": "80°C",
@@ -582,8 +582,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "7 tsp (~10.5 g) · light 5.5 / strong 8",
-     "note": "1.5 g/tsp (large open leaf). 1L: 2 infusions per charge.",
+     "amount": "7 tsp (~10.5 g)",
+     "note": "1.5 g/tsp (large open leaf). 1L: 2 infusions per charge. Leaf for a lighter or stronger cup with the Medium times: light 5.5 / strong 8 tsp.",
      "infusions": [
       {
        "temp": "80°C",
@@ -1261,8 +1261,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "6 tsp (~18 g) · light 5 / strong 8",
-     "note": "3 g/tsp (loosely ball-rolled). 1L: 2 infusions per charge; strong leaf (8 tsp) shortens to 3:00 / 5:00.",
+     "amount": "6 tsp (~18 g)",
+     "note": "3 g/tsp (loosely ball-rolled). 1L: 2 infusions per charge; strong leaf (8 tsp) shortens to 3:00 / 5:00. Leaf for a lighter or stronger cup with the Medium times: light 5 / strong 8 tsp.",
      "infusions": [
       {
        "temp": "95°C",
@@ -1601,8 +1601,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "8 tsp (~13 g) · light 6 / strong 10",
-     "note": "1.6 g/tsp (fluffy tippy leaf). 1L: 1 infusion per charge; a second liter is noticeably thin. The light (6 tsp) and strong (10 tsp) amounts were set at 2:30 and 3:30.",
+     "amount": "8 tsp (~13 g)",
+     "note": "1.6 g/tsp (fluffy tippy leaf). 1L: 1 infusion per charge; a second liter is noticeably thin. The light (6 tsp) and strong (10 tsp) amounts were set at 2:30 and 3:30. Leaf for a lighter or stronger cup with the Medium times: light 6 / strong 10 tsp.",
      "infusions": [
       {
        "temp": "85°C",
@@ -1620,8 +1620,8 @@
    "methods": [
     {
      "name": "Gongfu 90 ml",
-     "amount": "2.5 tsp (~4.4 g) · light 2.25 / strong 2.75",
-     "note": "Derived schedule, not brewed yet. 1:20 ratio, as Curious Tea and Path of Cha both give. No rinse: the open strip leaf needs no opening. 90°C (Path of Cha); if late infusions thin out, use 95°C (Curious Tea). 8 infusions.",
+     "amount": "2.5 tsp (~4.4 g)",
+     "note": "Derived schedule, not brewed yet. 1:20 ratio, as Curious Tea and Path of Cha both give. No rinse: the open strip leaf needs no opening. 90°C (Path of Cha); if late infusions thin out, use 95°C (Curious Tea). 8 infusions. Leaf for a lighter or stronger cup with the Medium times: light 2.25 / strong 2.75 tsp.",
      "infusions": [
       {
        "temp": "90°C",
@@ -1756,8 +1756,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "5.75 tsp (~10 g) · light 4.5 / strong 7",
-     "note": "1.75 g/tsp (long, loosely twisted strip; bulky, so weigh it once). Lightly oxidized (about 12 to 20%), so it brews cooler than the rolled oolongs. 1L: 2 infusions per charge; infusion 2 at 1 L is Derived.",
+     "amount": "5.75 tsp (~10 g)",
+     "note": "1.75 g/tsp (long, loosely twisted strip; bulky, so weigh it once). Lightly oxidized (about 12 to 20%), so it brews cooler than the rolled oolongs. 1L: 2 infusions per charge; infusion 2 at 1 L is Derived. Leaf for a lighter or stronger cup with the Medium times: light 4.5 / strong 7 tsp.",
      "infusions": [
       {
        "temp": "85°C",
@@ -1781,8 +1781,8 @@
    "methods": [
     {
      "name": "Gongfu 90 ml",
-     "amount": "2 tsp (~3.5 g) · light 1.75 / strong 2.5",
-     "note": "Derived schedule, not brewed yet. About 1:26, no rinse. Tee Kontor Kiel's gaiwan figure is 3 to 4 g per 150 ml at 95°C (60 / 30 / 30 s); this uses more leaf, so 90°C and a shorter first steep. 6 infusions, 7th optional.",
+     "amount": "2 tsp (~3.5 g)",
+     "note": "Derived schedule, not brewed yet. About 1:26, no rinse. Tee Kontor Kiel's gaiwan figure is 3 to 4 g per 150 ml at 95°C (60 / 30 / 30 s); this uses more leaf, so 90°C and a shorter first steep. 6 infusions, 7th optional. Leaf for a lighter or stronger cup with the Medium times: light 1.75 / strong 2.5 tsp.",
      "infusions": [
       {
        "temp": "90°C",
@@ -1900,8 +1900,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "5 tsp (~8.75 g) · light 4 / strong 6",
-     "note": "1.75 g/tsp (open, loose leaf with silver tips). A commercial Bai Hao style grade; Tee Kontor Kiel rates its oxidation high and its taste roasted, nutty and mildly sweet. Tee Kontor Kiel brews it at 95°C, 8 g/L, 1:30; most other shops use 80 to 90°C for 2 to 4 min, so 90°C is the start. If the cup is flat, use 95°C with the min time. 1L: 1 infusion per charge; a second liter is optional and thin.",
+     "amount": "5 tsp (~8.75 g)",
+     "note": "1.75 g/tsp (open, loose leaf with silver tips). A commercial Bai Hao style grade; Tee Kontor Kiel rates its oxidation high and its taste roasted, nutty and mildly sweet. Tee Kontor Kiel brews it at 95°C, 8 g/L, 1:30; most other shops use 80 to 90°C for 2 to 4 min, so 90°C is the start. If the cup is flat, use 95°C with the min time. 1L: 1 infusion per charge; a second liter is optional and thin. Leaf for a lighter or stronger cup with the Medium times: light 4 / strong 6 tsp.",
      "infusions": [
       {
        "temp": "90°C",
@@ -1926,8 +1926,8 @@
    "methods": [
     {
      "name": "Gongfu 90 ml",
-     "amount": "1.5 tsp (~4.5 g) · light 1.25 / strong 1.75",
-     "note": "Derived schedule, not brewed yet. 1:20 ratio, no rinse: infusion 1 at 0:30 opens the balls and is drunk (Tee Kontor Kiel steeps the first three at 30 s each, with less leaf). 8 infusions.",
+     "amount": "1.5 tsp (~4.5 g)",
+     "note": "Derived schedule, not brewed yet. 1:20 ratio, no rinse: infusion 1 at 0:30 opens the balls and is drunk (Tee Kontor Kiel steeps the first three at 30 s each, with less leaf). 8 infusions. Leaf for a lighter or stronger cup with the Medium times: light 1.25 / strong 1.75 tsp.",
      "infusions": [
       {
        "temp": "95°C",
@@ -2068,8 +2068,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "4.5 tsp (~13.5 g) · light 3.5 / strong 5.5",
-     "note": "3 g/tsp (dark, loosely balled leaf). Heavily oxidized, lightly roasted high-mountain Qingxin oolong; Tee Kontor Kiel recommends gongfu and says western works well too. 1L: 2 long infusions per charge (fewest-steeps plan); 1L leaf amount and infusion 2 Derived. The leaf is from 2021; if it tastes flat, use 100°C.",
+     "amount": "4.5 tsp (~13.5 g)",
+     "note": "3 g/tsp (dark, loosely balled leaf). Heavily oxidized, lightly roasted high-mountain Qingxin oolong; Tee Kontor Kiel recommends gongfu and says western works well too. 1L: 2 long infusions per charge (fewest-steeps plan); 1L leaf amount and infusion 2 Derived. The leaf is from 2021; if it tastes flat, use 100°C. Leaf for a lighter or stronger cup with the Medium times: light 3.5 / strong 5.5 tsp.",
      "infusions": [
       {
        "temp": "95°C",
@@ -2093,8 +2093,8 @@
    "methods": [
     {
      "name": "Gongfu 90 ml",
-     "amount": "1.5 tsp (~3.75 g) · light 1.4 / strong 1.8",
-     "note": "No rinse. 10 infusions at 100°C, the shop's gaiwan figure for this tea; infusions 1 and 2 follow its 20 s and 15 s. If infusion 1 tastes brisk, use 95°C.",
+     "amount": "1.5 tsp (~3.75 g)",
+     "note": "No rinse. 10 infusions at 100°C, the shop's gaiwan figure for this tea; infusions 1 and 2 follow its 20 s and 15 s. If infusion 1 tastes brisk, use 95°C. Leaf for a lighter or stronger cup with the Medium times: light 1.4 / strong 1.8 tsp.",
      "infusions": [
       {
        "temp": "100°C",
@@ -2252,8 +2252,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "4 tsp (~10 g) · light 3 / strong 5",
-     "note": "2.5 g/tsp (twisted). 1L: 2 infusions per charge. Sources for this cultivar brew at about 100°C; drop to 95°C if infusion 1 tastes brisk.",
+     "amount": "4 tsp (~10 g)",
+     "note": "2.5 g/tsp (twisted). 1L: 2 infusions per charge. Sources for this cultivar brew at about 100°C; drop to 95°C if infusion 1 tastes brisk. Leaf for a lighter or stronger cup with the Medium times: light 3 / strong 5 tsp.",
      "infusions": [
       {
        "temp": "100°C",
@@ -2277,8 +2277,8 @@
    "methods": [
     {
      "name": "Gongfu 90 ml",
-     "amount": "1.5 tsp (~3 g) · light 1.25 / strong 1.75",
-     "note": "Borderline gongfu fit: western is the better default. No rinse. 4 to 5 infusions; the 5th is thin.",
+     "amount": "1.5 tsp (~3 g)",
+     "note": "Borderline gongfu fit: western is the better default. No rinse. 4 to 5 infusions; the 5th is thin. Leaf for a lighter or stronger cup with the Medium times: light 1.25 / strong 1.75 tsp.",
      "infusions": [
       {
        "temp": "95°C",
@@ -2373,8 +2373,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "5 tsp (~10 g) · light 4 / strong 6",
-     "note": "2 g/tsp (flat). 1 infusion per charge; the second is optional and thin. If 95°C tastes astringent, use 90°C with 3:00/4:00/5:00 rather than cutting below 1:30.",
+     "amount": "5 tsp (~10 g)",
+     "note": "2 g/tsp (flat). 1 infusion per charge; the second is optional and thin. If 95°C tastes astringent, use 90°C with 3:00/4:00/5:00 rather than cutting below 1:30. Leaf for a lighter or stronger cup with the Medium times: light 4 / strong 6 tsp.",
      "infusions": [
       {
        "temp": "95°C",
@@ -2399,8 +2399,8 @@
    "methods": [
     {
      "name": "Gongfu 90 ml",
-     "amount": "2.25 tsp (~3.5 g) · light 2 / strong 2.75",
-     "note": "No rinse. 8 infusions.",
+     "amount": "2.25 tsp (~3.5 g)",
+     "note": "No rinse. 8 infusions. Leaf for a lighter or stronger cup with the Medium times: light 2 / strong 2.75 tsp.",
      "infusions": [
       {
        "temp": "95°C",
@@ -2534,8 +2534,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "7 tsp (~10.5 g) · light 5.5 / strong 8",
-     "note": "1.5 g/tsp (large open twist). 1L: 2 infusions per charge. Most sources brew infusion 1 below boiling to limit astringency.",
+     "amount": "7 tsp (~10.5 g)",
+     "note": "1.5 g/tsp (large open twist). 1L: 2 infusions per charge. Most sources brew infusion 1 below boiling to limit astringency. Leaf for a lighter or stronger cup with the Medium times: light 5.5 / strong 8 tsp.",
      "infusions": [
       {
        "temp": "90°C",
@@ -2572,8 +2572,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "4 tsp (~10 g) · light 3 / strong 5",
-     "note": "2.5 g/tsp (berries may weigh more). 1 infusion per charge; the flavoring washes out. For a stronger cup, add leaf (1.75 tsp, ~4.4 g per 350 ml) rather than steeping past 4:00.",
+     "amount": "4 tsp (~10 g)",
+     "note": "2.5 g/tsp (berries may weigh more). 1 infusion per charge; the flavoring washes out. For a stronger cup, add leaf (1.75 tsp, ~4.4 g per 350 ml) rather than steeping past 4:00. Leaf for a lighter or stronger cup with the Medium times: light 3 / strong 5 tsp.",
      "infusions": [
       {
        "temp": "100°C",
@@ -2591,8 +2591,8 @@
    "methods": [
     {
      "name": "Gongfu 90 ml",
-     "amount": "1.75 tsp (~5 g) · light 1.25 / strong 2",
-     "note": "Quick rinse first (pour on, discard at once, no timer). 12 infusions.",
+     "amount": "1.75 tsp (~5 g)",
+     "note": "Quick rinse first (pour on, discard at once, no timer). 12 infusions. Leaf for a lighter or stronger cup with the Medium times: light 1.25 / strong 2 tsp.",
      "infusions": [
       {
        "temp": "100°C",
@@ -2781,8 +2781,8 @@
     },
     {
      "name": "Western 1 L",
-     "amount": "4.75 tsp (~14 g) · light 3.5 / strong 5.75",
-     "note": "3 g/tsp (dense; weigh it, the chunks vary). Quick rinse first: pour on, discard after about 10 s. 3 infusions per charge, a fourth is optional.",
+     "amount": "4.75 tsp (~14 g)",
+     "note": "3 g/tsp (dense; weigh it, the chunks vary). Quick rinse first: pour on, discard after about 10 s. 3 infusions per charge, a fourth is optional. Leaf for a lighter or stronger cup with the Medium times: light 3.5 / strong 5.75 tsp.",
      "infusions": [
       {
        "temp": "100°C",

@@ -21,7 +21,10 @@ What the script takes over:
 - **Light / Medium / Strong** are the reference's min / mid / max times. Since 19 Oct 2026
   they are exact times. Older references rounded the gongfu mid times to fit a slot timer and
   kept the exact one in an "Ideal (mid)" column; if that column is present, Medium uses it.
-- Temperature and "optional" per infusion, the leaf amount per method, and the notes.
+- Temperature and "optional" per infusion, and the notes.
+- `amount` is the method's bold leaf amount (tsp and grams), which Light, Medium and Strong
+  all use: in the reference, strength comes from the time. The light / strong leaf amounts
+  (the other lever, used with the Medium times) go into the method's note.
 - A **Test** tea with 5-second steps is added at the end, for checking the alarm.
 
 ## Format
