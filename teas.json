@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "Oct 19, 2026",
+ "updated": "Oct 20, 2026",
  "teas": [
   {
    "type": "Green",
@@ -1609,6 +1609,479 @@
        "light": "2:00",
        "medium": "3:00",
        "strong": "4:00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "Oolong",
+   "name": "Wen-Shan Pouchong",
+   "methods": [
+    {
+     "name": "Gongfu 90 ml",
+     "amount": "2.5 tsp (~4.4 g) · light 2.25 / strong 2.75",
+     "note": "Derived schedule, not brewed yet. 1:20 ratio, as Curious Tea and Path of Cha both give. No rinse: the open strip leaf needs no opening. 90°C (Path of Cha); if late infusions thin out, use 95°C (Curious Tea). 8 infusions.",
+     "infusions": [
+      {
+       "temp": "90°C",
+       "light": "0:20",
+       "medium": "0:25",
+       "strong": "0:30"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:20",
+       "medium": "0:25",
+       "strong": "0:30"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:25",
+       "medium": "0:30",
+       "strong": "0:35"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:30",
+       "medium": "0:40",
+       "strong": "0:50"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:40",
+       "medium": "0:50",
+       "strong": "1:00"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:50",
+       "medium": "1:05",
+       "strong": "1:20"
+      },
+      {
+       "temp": "90°C",
+       "light": "1:10",
+       "medium": "1:25",
+       "strong": "1:40"
+      },
+      {
+       "temp": "90°C",
+       "light": "1:30",
+       "medium": "1:50",
+       "strong": "2:10"
+      }
+     ]
+    },
+    {
+     "name": "Gongfu 60 ml",
+     "amount": "1.75 tsp (~3 g)",
+     "note": "Derived schedule, not brewed yet. 1:20 ratio, as Curious Tea and Path of Cha both give. No rinse: the open strip leaf needs no opening. 90°C (Path of Cha); if late infusions thin out, use 95°C (Curious Tea). 8 infusions.",
+     "infusions": [
+      {
+       "temp": "90°C",
+       "light": "0:20",
+       "medium": "0:25",
+       "strong": "0:30"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:20",
+       "medium": "0:25",
+       "strong": "0:30"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:25",
+       "medium": "0:30",
+       "strong": "0:35"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:30",
+       "medium": "0:40",
+       "strong": "0:50"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:40",
+       "medium": "0:50",
+       "strong": "1:00"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:50",
+       "medium": "1:05",
+       "strong": "1:20"
+      },
+      {
+       "temp": "90°C",
+       "light": "1:10",
+       "medium": "1:25",
+       "strong": "1:40"
+      },
+      {
+       "temp": "90°C",
+       "light": "1:30",
+       "medium": "1:50",
+       "strong": "2:10"
+      }
+     ]
+    },
+    {
+     "name": "Western 350 ml",
+     "amount": "2.25 tsp (~4 g)",
+     "note": "1.75 g/tsp (long, loosely twisted strip; bulky, so weigh it once). Lightly oxidized (about 12 to 20%), so it brews cooler than the rolled oolongs. 1L: 2 infusions per charge; infusion 2 at 1 L is Derived. Sources run 80 to 90°C; if the cup is flat, use 90°C.",
+     "infusions": [
+      {
+       "temp": "85°C",
+       "light": "2:00",
+       "medium": "3:00",
+       "strong": "4:00"
+      },
+      {
+       "temp": "85°C",
+       "light": "3:00",
+       "medium": "4:00",
+       "strong": "5:00"
+      },
+      {
+       "temp": "90°C",
+       "light": "4:00",
+       "medium": "5:00",
+       "strong": "6:00",
+       "optional": true
+      }
+     ]
+    },
+    {
+     "name": "Western 1 L",
+     "amount": "5.75 tsp (~10 g) · light 4.5 / strong 7",
+     "note": "1.75 g/tsp (long, loosely twisted strip; bulky, so weigh it once). Lightly oxidized (about 12 to 20%), so it brews cooler than the rolled oolongs. 1L: 2 infusions per charge; infusion 2 at 1 L is Derived.",
+     "infusions": [
+      {
+       "temp": "85°C",
+       "light": "2:00",
+       "medium": "3:00",
+       "strong": "4:00"
+      },
+      {
+       "temp": "85°C",
+       "light": "4:00",
+       "medium": "5:00",
+       "strong": "6:00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "Oolong",
+   "name": "Schwarzer Drache (Super Fancy)",
+   "methods": [
+    {
+     "name": "Gongfu 90 ml",
+     "amount": "2 tsp (~3.5 g) · light 1.75 / strong 2.5",
+     "note": "Derived schedule, not brewed yet. About 1:26, no rinse. Tee Kontor Kiel's gaiwan figure is 3 to 4 g per 150 ml at 95°C (60 / 30 / 30 s); this uses more leaf, so 90°C and a shorter first steep. 6 infusions, 7th optional.",
+     "infusions": [
+      {
+       "temp": "90°C",
+       "light": "0:35",
+       "medium": "0:45",
+       "strong": "0:55"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:25",
+       "medium": "0:30",
+       "strong": "0:35"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:30",
+       "medium": "0:40",
+       "strong": "0:50"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:40",
+       "medium": "0:50",
+       "strong": "1:00"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:50",
+       "medium": "1:05",
+       "strong": "1:20"
+      },
+      {
+       "temp": "90°C",
+       "light": "1:10",
+       "medium": "1:25",
+       "strong": "1:40"
+      },
+      {
+       "temp": "90°C",
+       "light": "1:30",
+       "medium": "1:50",
+       "strong": "2:10",
+       "optional": true
+      }
+     ]
+    },
+    {
+     "name": "Gongfu 60 ml",
+     "amount": "1.25 tsp (~2.2 g)",
+     "note": "Derived schedule, not brewed yet. About 1:26, no rinse. Tee Kontor Kiel's gaiwan figure is 3 to 4 g per 150 ml at 95°C (60 / 30 / 30 s); this uses more leaf, so 90°C and a shorter first steep. 6 infusions, 7th optional.",
+     "infusions": [
+      {
+       "temp": "90°C",
+       "light": "0:35",
+       "medium": "0:45",
+       "strong": "0:55"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:25",
+       "medium": "0:30",
+       "strong": "0:35"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:30",
+       "medium": "0:40",
+       "strong": "0:50"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:40",
+       "medium": "0:50",
+       "strong": "1:00"
+      },
+      {
+       "temp": "90°C",
+       "light": "0:50",
+       "medium": "1:05",
+       "strong": "1:20"
+      },
+      {
+       "temp": "90°C",
+       "light": "1:10",
+       "medium": "1:25",
+       "strong": "1:40"
+      },
+      {
+       "temp": "90°C",
+       "light": "1:30",
+       "medium": "1:50",
+       "strong": "2:10",
+       "optional": true
+      }
+     ]
+    },
+    {
+     "name": "Western 350 ml",
+     "amount": "2 tsp (~3.5 g)",
+     "note": "1.75 g/tsp (open, loose leaf with silver tips). A commercial Bai Hao style grade; Tee Kontor Kiel rates its oxidation high and its taste roasted, nutty and mildly sweet. Tee Kontor Kiel brews it at 95°C, 8 g/L, 1:30; most other shops use 80 to 90°C for 2 to 4 min, so 90°C is the start. If the cup is flat, use 95°C with the min time. 1L: 1 infusion per charge; a second liter is optional and thin. 2 infusions, as Tea Fountain gives for the same grade.",
+     "infusions": [
+      {
+       "temp": "90°C",
+       "light": "1:30",
+       "medium": "2:30",
+       "strong": "3:30"
+      },
+      {
+       "temp": "95°C",
+       "light": "3:00",
+       "medium": "4:00",
+       "strong": "5:00"
+      }
+     ]
+    },
+    {
+     "name": "Western 1 L",
+     "amount": "5 tsp (~8.75 g) · light 4 / strong 6",
+     "note": "1.75 g/tsp (open, loose leaf with silver tips). A commercial Bai Hao style grade; Tee Kontor Kiel rates its oxidation high and its taste roasted, nutty and mildly sweet. Tee Kontor Kiel brews it at 95°C, 8 g/L, 1:30; most other shops use 80 to 90°C for 2 to 4 min, so 90°C is the start. If the cup is flat, use 95°C with the min time. 1L: 1 infusion per charge; a second liter is optional and thin.",
+     "infusions": [
+      {
+       "temp": "90°C",
+       "light": "1:30",
+       "medium": "2:30",
+       "strong": "3:30"
+      },
+      {
+       "temp": "95°C",
+       "light": "3:00",
+       "medium": "4:00",
+       "strong": "5:00",
+       "optional": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "Oolong",
+   "name": "2021 Shan Lin Xi Black Wulong",
+   "methods": [
+    {
+     "name": "Gongfu 90 ml",
+     "amount": "1.5 tsp (~4.5 g) · light 1.25 / strong 1.75",
+     "note": "Derived schedule, not brewed yet. 1:20 ratio, no rinse: infusion 1 at 0:30 opens the balls and is drunk (Tee Kontor Kiel steeps the first three at 30 s each, with less leaf). 8 infusions.",
+     "infusions": [
+      {
+       "temp": "95°C",
+       "light": "0:25",
+       "medium": "0:30",
+       "strong": "0:35"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:16",
+       "medium": "0:20",
+       "strong": "0:24"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:20",
+       "medium": "0:25",
+       "strong": "0:30"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:25",
+       "medium": "0:30",
+       "strong": "0:35"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:30",
+       "medium": "0:40",
+       "strong": "0:50"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:40",
+       "medium": "0:50",
+       "strong": "1:00"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:55",
+       "medium": "1:10",
+       "strong": "1:25"
+      },
+      {
+       "temp": "95°C",
+       "light": "1:20",
+       "medium": "1:40",
+       "strong": "2:00"
+      }
+     ]
+    },
+    {
+     "name": "Gongfu 60 ml",
+     "amount": "1 tsp (~3 g)",
+     "note": "Derived schedule, not brewed yet. 1:20 ratio, no rinse: infusion 1 at 0:30 opens the balls and is drunk (Tee Kontor Kiel steeps the first three at 30 s each, with less leaf). 8 infusions.",
+     "infusions": [
+      {
+       "temp": "95°C",
+       "light": "0:25",
+       "medium": "0:30",
+       "strong": "0:35"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:16",
+       "medium": "0:20",
+       "strong": "0:24"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:20",
+       "medium": "0:25",
+       "strong": "0:30"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:25",
+       "medium": "0:30",
+       "strong": "0:35"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:30",
+       "medium": "0:40",
+       "strong": "0:50"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:40",
+       "medium": "0:50",
+       "strong": "1:00"
+      },
+      {
+       "temp": "95°C",
+       "light": "0:55",
+       "medium": "1:10",
+       "strong": "1:25"
+      },
+      {
+       "temp": "95°C",
+       "light": "1:20",
+       "medium": "1:40",
+       "strong": "2:00"
+      }
+     ]
+    },
+    {
+     "name": "Western 350 ml",
+     "amount": "1.25 tsp (~3.75 g)",
+     "note": "3 g/tsp (dark, loosely balled leaf). Heavily oxidized, lightly roasted high-mountain Qingxin oolong; Tee Kontor Kiel recommends gongfu and says western works well too. 1L: 2 long infusions per charge (fewest-steeps plan); 1L leaf amount and infusion 2 Derived. The leaf is from 2021; if it tastes flat, use 100°C. 3 infusions; a fourth is optional.",
+     "infusions": [
+      {
+       "temp": "95°C",
+       "light": "2:00",
+       "medium": "3:00",
+       "strong": "4:00"
+      },
+      {
+       "temp": "95°C",
+       "light": "3:00",
+       "medium": "4:00",
+       "strong": "5:00"
+      },
+      {
+       "temp": "95°C",
+       "light": "4:00",
+       "medium": "5:00",
+       "strong": "7:00"
+      },
+      {
+       "temp": "100°C",
+       "light": "6:00",
+       "medium": "8:00",
+       "strong": "10:00",
+       "optional": true
+      }
+     ]
+    },
+    {
+     "name": "Western 1 L",
+     "amount": "4.5 tsp (~13.5 g) · light 3.5 / strong 5.5",
+     "note": "3 g/tsp (dark, loosely balled leaf). Heavily oxidized, lightly roasted high-mountain Qingxin oolong; Tee Kontor Kiel recommends gongfu and says western works well too. 1L: 2 long infusions per charge (fewest-steeps plan); 1L leaf amount and infusion 2 Derived. The leaf is from 2021; if it tastes flat, use 100°C.",
+     "infusions": [
+      {
+       "temp": "95°C",
+       "light": "2:30",
+       "medium": "3:30",
+       "strong": "4:30"
+      },
+      {
+       "temp": "95°C",
+       "light": "5:00",
+       "medium": "6:00",
+       "strong": "8:00"
       }
      ]
     }
