@@ -22,9 +22,10 @@ What the script takes over:
   they are exact times. Older references rounded the gongfu mid times to fit a slot timer and
   kept the exact one in an "Ideal (mid)" column; if that column is present, Medium uses it.
 - Temperature and "optional" per infusion, and the notes.
-- `amount` is the method's bold leaf amount (tsp and grams), which Light, Medium and Strong
-  all use: in the reference, strength comes from the time. The light / strong leaf amounts
-  (the other lever, used with the Medium times) go into the method's note.
+- `amount` is the method's bold leaf amount: grams to weigh, with teaspoons in brackets as a
+  fallback (grams first since 24 Oct 2026). Light, Medium and Strong all use it: in the
+  reference, strength comes from the time. The light / strong leaf amounts (the other lever,
+  used with the Medium times) go into the method's note.
 - A **Test** tea with 5-second steps is added at the end, for checking the alarm.
 
 ## Format
@@ -40,7 +41,7 @@ What the script takes over:
       "methods": [
         {
           "name": "Gongfu 90 ml",
-          "amount": "2.25 tsp (~6.5 g)",
+          "amount": "6.5 g (~2.25 tsp)",
           "note": "No rinse. …",
           "infusions": [
             { "temp": "100°C", "light": "0:12", "medium": "0:15", "strong": "0:18" },

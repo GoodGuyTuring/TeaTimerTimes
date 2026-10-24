@@ -6,6 +6,7 @@ They become:
 
     type > tea > method ("Gongfu 90 ml", ...) > strength (Light / Medium / Strong)
 
+Since 24 Oct 2026 leaf amounts are grams first (weighed), with teaspoons in brackets.
 Since 19 Oct 2026 the reference's times are exact. Older references rounded the gongfu mid
 times to fit a slot timer and kept the exact time in an "Ideal (mid)" column; if that column
 is present, Medium uses it.
@@ -27,7 +28,8 @@ METHOD_NAMES = {
 }
 METHOD_ORDER = list(METHOD_NAMES.values())
 
-# "**1L batch: 9 tsp (~18 g)** (light 7 / strong 11). Note" or "**60 ml gaiwan**: not recommended. ..."
+# "**1L batch: 18 g (~9 tsp)** (light 14 g / strong 22 g; ~7 / 11 tsp). Note"
+# or "**60 ml gaiwan**: not recommended. ..."
 AMOUNT_RE = re.compile(
     r"^\*\*(?P<vessel>" + "|".join(re.escape(v) for v in METHOD_NAMES) + r")(?::\s*(?P<amount>[^*]+))?\*\*:?\s*(?P<rest>.*)$"
 )
@@ -114,7 +116,14 @@ def parse_block(block: dict) -> tuple[str, list[dict]]:
             if variants := LEAF_VARIANTS_RE.match(rest):
                 text = variants["variants"].strip()
                 if text.startswith("light"):
-                    text = f"Leaf for a lighter or stronger cup with the Medium times: {text} tsp"
+                    # Since 24 Oct 2026: "light 14 g / strong 22 g; ~7 / 11 tsp" (grams first).
+                    # Older references: "light 7 / strong 11" (teaspoons).
+                    grams, _, spoons = text.partition(";")
+                    if " g" in grams:
+                        text = grams.strip() + (f" ({spoons.strip()})" if spoons.strip() else "")
+                    else:
+                        text = f"{text} tsp"
+                    text = f"Leaf for a lighter or stronger cup with the Medium times: {text}"
                 rest = f"{text}. {variants['rest'].lstrip('. ')}".strip()
             method = {"name": METHOD_NAMES[match["vessel"]], "amount": amount, "note": rest, "infusions": []}
             methods.append(method)
